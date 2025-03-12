@@ -12,6 +12,8 @@ public class Leet1git {
         // size is use for to store the size of array.
         int size = Sc.nextInt();
         // craeating array 
+    
+        
         int nums[] = new int[size];
 
         // to Enter numbers in the array
